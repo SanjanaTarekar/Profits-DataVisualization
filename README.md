@@ -8,3 +8,6 @@ Designed with a sleek and intuitive interface, "Profit" is a user-friendly dashb
 Using the power of Tableau, "Profit" is an excellent tool for data visualization that lets you achieve incredible results in just one hour. It's perfect for analysts and beginners alike, thanks to its extensive feature set and easy-to-use interface.
 
 So, take some time to explore "Profit," play with the filters, and let me know your thoughts. I am confident that you'll love the insights that "Profit" can provide, and I'm always open to feedback to make the dashboard even better.
+
+Note - Data set used for this dashboard is Sample-Superstore by Tableau.
+You can also access the dashboard using this link -https://public.tableau.com/app/profile/sanjana.t5285/viz/Profit_16828840432830/ProfitDashboard?publish=yes
