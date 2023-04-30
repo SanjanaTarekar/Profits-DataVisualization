@@ -1,7 +1,7 @@
 # Profits-DataVisualization
 Welcome to "Profit" - an interactive dashboard that lets you analyze data by categories, subcategories, state, manufacturer, and more. With "Profit," you can gain insights from the highly regarded "Sample-Superstore" dataset by Tableau.
 
-<img src="https://www.tableau.com/sites/default/files/2022-08/Products_Reader_Hero.png" alt="Sanjana Tarekar - MasterHead" width="900" height="300" style="float:left; margin-right:30px;">
+<img src="https://www.tableau.com/sites/default/files/2022-08/Products_Reader_Hero.png" alt="Sanjana Tarekar - MasterHead" width="900" height="500" style="float:left; margin-right:30px;">
 
 Designed with a sleek and intuitive interface, "Profit" is a user-friendly dashboard that is easy to navigate and understand. It provides you with a comprehensive view of your data and enables you to make informed decisions quickly.
 
